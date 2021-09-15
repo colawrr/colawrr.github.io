@@ -9,5 +9,4 @@ below is a screenshot of the project
 .
 .
 .
-.
-<img src="./IMG_2629.HEIC"> 
+[![IMG-2629.jpg](https://i.postimg.cc/q7s1Vw6Q/IMG-2629.jpg)](https://postimg.cc/LqstjzTZ)
